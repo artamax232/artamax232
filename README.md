@@ -1,8 +1,8 @@
-Nice to meet you- 👋 Hi, I’m @artamax232
-Learning more- 👀 I’m interested in ...
-To Develope games- 🌱 I’m currently learning ...
-New projects- 💞️ I’m looking to collaborate on ...
-artamax232@iclound.com- 📫 How to reach me ...
+👋 Hi, I’m @artamax232-  Nice to meet you
+ 👀 I’m interested in ...- Learning more
+ 🌱 I’m currently learning ...- To Develope games
+ 💞️ I’m looking to collaborate on...- New projects
+📫 How to reach me...-  artamax232@iclound.com
 
 <!---
 artamax232/artamax232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
