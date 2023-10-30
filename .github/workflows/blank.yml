@@ -16,7 +16,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:- name: Setup Node.js environment
+  build:- name: Node.js
   uses: actions/setup-node@v4.0.0
   with:
     # Set always-auth in npmrc.
